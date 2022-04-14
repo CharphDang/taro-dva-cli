@@ -1,0 +1,31 @@
+{
+  "name": "@charphdang/taro-cli",
+  "version": "1.0.9",
+  "main": "./bin/entry.js",
+  "license": "MIT",
+  "bin": {
+    "taro-cli": "./bin/entry.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clear": "^0.1.0",
+    "commander": "^8.0.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.1.2",
+    "log-symbols": "^4.0.0",
+    "open": "^8.2.1",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.4"
+  },
+  "description": "taro-cli",
+  "keywords": [
+    "taro-cli",
+    "taro-dva",
+    "taro-mock"
+  ],
+  "author": {
+    "name": "Charph"
+  }
+}
